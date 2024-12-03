@@ -1,4 +1,6 @@
-## DATENSCHUTZERKLÄRUNG
+---
+title: "Datenschutzerklärung"
+---
 
 **Zuletzt aktualisiert am 3. Dezember 2024**
 
