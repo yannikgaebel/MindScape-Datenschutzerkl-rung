@@ -88,10 +88,14 @@ Je nachdem, wie Sie mit uns interagieren, können diese Protokolldaten Informati
 
 ### 2. WIE VERARBEITEN WIR IHRE INFORMATIONEN?
 
-**Kurz gesagt:** Wir verarbeiten Ihre Informationen, um unsere Dienste bereitzustellen, zu verbessern und zu verwalten, mit Ihnen zu kommunizieren, für Sicherheits- und Betrugsprävention sowie zur Einhaltung gesetzlicher Vorschriften. Mit Ihrer Einwilligung können wir Ihre Informationen auch für andere Zwecke verarbeiten.
+**Kurz gesagt:** Wir verarbeiten Ihre Informationen, um unsere Dienste bereitzustellen, zu verbessern und zu verwalten, wissenschaftliche Studien durchzuführen, mit Ihnen zu kommunizieren, für Sicherheits- und Betrugsprävention sowie zur Einhaltung gesetzlicher Vorschriften. Mit Ihrer Einwilligung können wir Ihre Informationen auch für andere Zwecke verarbeiten.
 
 Wir verarbeiten Ihre personenbezogenen Daten aus verschiedenen Gründen, abhängig davon, wie Sie mit unseren Diensten interagieren, einschließlich:
 - **Zur Unterstützung bei der Erstellung von Konten und der Authentifizierung sowie zur Verwaltung von Benutzerkonten.** Wir können Ihre Informationen verarbeiten, damit Sie ein Konto erstellen und sich in Ihr Konto einloggen können, sowie um Ihr Konto funktionsfähig zu halten.
+
+**Wissenschaftliche Nutzung anonymisierter Daten**
+
+Wir können anonymisierte Daten, einschließlich Informationen zu Geschlecht, Alter, höchstem Bildungsabschluss und den Ergebnissen des Big-Five-Persönlichkeitsprofils, für wissenschaftliche Zwecke verwenden. Dies schließt die Durchführung von Studien ein, die zur Verbesserung der psychologischen Forschung und der Entwicklung neuer Erkenntnisse beitragen. Im Rahmen dieser wissenschaftlichen Arbeit können die anonymisierten Daten möglicherweise öffentlich zugänglich gemacht werden. Bitte beachten Sie, dass alle veröffentlichten Daten vollständig anonymisiert sind, sodass keine Rückschlüsse auf Ihre Identität möglich sind.
 
 ### 3. AUF WELCHE RECHTSGRUNDLAGEN STÜTZEN WIR UNS BEI DER VERARBEITUNG IHRER INFORMATIONEN?
 
